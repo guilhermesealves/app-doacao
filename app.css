@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    margin-top: 18px;
+}
+h1{
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    text-align: center;
+    margin: 21px;
+    color: #1F9440;
+}
+.Bob{
+    margin: 52px;
+
+}
+.Tobby img{
+    border: 1px solid red;
+}
