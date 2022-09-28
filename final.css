@@ -63,3 +63,6 @@ input{
  .button2{
     margin: 52px;
  }
+ a{
+    text-decoration: none;
+ }
