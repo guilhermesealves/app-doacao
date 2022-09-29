@@ -16,10 +16,13 @@ h1{
     margin: 21px;
     color: #1F9440;
 }
-.Bob{
+.Bob img{
     margin: 52px;
-
+    border: 1px solid red;
+    border-radius: 20px;
 }
 .Tobby img{
     border: 1px solid red;
+    border-radius: 20px;
+
 }
